@@ -10,7 +10,7 @@ header.site-header {
   position: relative;
   width: 100%;
   height: 100vh;
-  max-height: 1080px;
+  //max-height: 1080px;
   z-index: 1;
 
   // Blog Header
@@ -36,7 +36,7 @@ header.site-header {
     position: absolute;
     width: 100%;
     height: 100vh;
-    max-height: 1080px;
+  //  max-height: 1080px;
     top: 0;
     left: 0;
   }
@@ -44,7 +44,7 @@ header.site-header {
   .container {
     position: relative;
     height: 100vh;
-    max-height: 1080px;
+    //max-height: 1080px;
   }
 
   // Site Navigation Bar
